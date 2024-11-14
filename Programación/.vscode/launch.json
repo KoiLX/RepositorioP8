@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AC201",
+            "request": "launch",
+            "mainClass": "AC201",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC202",
+            "request": "launch",
+            "mainClass": "AC202",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC203",
+            "request": "launch",
+            "mainClass": "AC203",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC205",
+            "request": "launch",
+            "mainClass": "AC205",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC207",
+            "request": "launch",
+            "mainClass": "AC207",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC208",
+            "request": "launch",
+            "mainClass": "AC208",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC209",
+            "request": "launch",
+            "mainClass": "AC209",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC210",
+            "request": "launch",
+            "mainClass": "AC210",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC211",
+            "request": "launch",
+            "mainClass": "AC211",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC305",
+            "request": "launch",
+            "mainClass": "AC305",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC306",
+            "request": "launch",
+            "mainClass": "AC306",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC307",
+            "request": "launch",
+            "mainClass": "AC307",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC309",
+            "request": "launch",
+            "mainClass": "AC309",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC310",
+            "request": "launch",
+            "mainClass": "AC310",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC311",
+            "request": "launch",
+            "mainClass": "AC311",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC312",
+            "request": "launch",
+            "mainClass": "AC312",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC313",
+            "request": "launch",
+            "mainClass": "AC313",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "AC314",
+            "request": "launch",
+            "mainClass": "AC314",
+            "projectName": "Programación_44630ed2"
+        },
+        {
+            "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "MainApp",
+            "projectName": "Programación_44630ed2"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Programación">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AC201.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AC310.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AC202-203.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AC205.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AC207-208.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AC311.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AC209, 210, 211.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AC306.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AC305.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AC307.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
